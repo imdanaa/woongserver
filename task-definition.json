@@ -1,5 +1,5 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:ap-northeast-2:124355662149:task-definition/woongservertask:1",
+    "taskDefinitionArn": "arn:aws:ecs:ap-northeast-2:124355662149:task-definition/woongservertask:latest",
     "containerDefinitions": [
         {
             "name": "woongserver",
